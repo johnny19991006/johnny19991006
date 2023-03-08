@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnny19991006
+- 👋 Hi, I’m JangJunYoung working in BCSD_LAB
 - 👀 I’m interested in BackEnd-Developer
 - 🌱 I’m currently learning Java-Spring
 - 💞️ I’m looking to collaborate on Korean IT company.
