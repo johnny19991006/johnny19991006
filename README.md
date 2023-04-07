@@ -2,7 +2,7 @@
 - 👀 I’m interested in BackEnd-Developer
 - 🌱 I’m currently learning Java-Spring
 - 💞️ I’m looking to collaborate on Korean IT company
-- 👨‍✈️ I'm interested in airline_pilot too
+- 👨‍✈️ I'm interested in airline_pilot
 - 🪖 I was 81mm moltarman in Korean 9th Infantry Division
 - 📫 How to reach me police0022@koreatech.ac.kr
 
