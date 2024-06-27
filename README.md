@@ -12,8 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/johnny19991006">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny19991006&exclude_repo=johnny19991006.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="https://github.com/johnny19991006">
   <img src="https://github-readme-stats.vercel.app/api?username=johnny19991006&theme=tokyonight&show_icons=true" width="42%" />
 </a>
