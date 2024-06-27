@@ -11,8 +11,9 @@ johnny19991006/johnny19991006 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="https://github.com/johnny19991006">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny19991006&exclude_repo=johnny19991006.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/johnny19991006">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnny19991006&theme=tokyonight&show_icons=true" width="42%" />
+</a>
