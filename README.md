@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JunYoung Jang working in BCSD_LAB (https://bcsdlab.com/)
 - ✨ My Blog(https://velog.io/@junyoung12)
-- 👀 I’m interested in BackEnd/Infra-Developer
+- 👀 I’m interested in Software_Engineer
 - 🌱 I’m currently learning Java/Spring, AWS
 - 💞️ I’m looking to collaborate on Korean IT company
 - 🪖 I was 81mm moltarman in Korean 9th Infantry Division
